@@ -14,7 +14,7 @@ if [ -d "$DIRECTORY" ]; then
     # Chạy file JavaScript bằng Node.js với dữ liệu đầu vào từ biến INPUT, ghi output vào nohup.out
     chmod 777 start.sh
     pip install requests colorama
-    echo "" | nohup python "$FILE" > "$OUTPUT_FILE" 2>&1 &
+    echo "" | nohup python3 "$FILE" > "$OUTPUT_FILE" 2>&1 &
     echo "Chạy file JavaScript trong nền, output được ghi vào $OUTPUT_FILE"
   else
     echo "File $FILE không tồn tại trong thư mục $DIRECTORY"
