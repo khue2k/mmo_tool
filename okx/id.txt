@@ -1,0 +1,1 @@
+query_id=AAH57UgYAwAAAPntSBiR6BB6&user=%7B%22id%22%3A6849883641%2C%22first_name%22%3A%22Pham%20%F0%9F%A6%B4%22%2C%22last_name%22%3A%22Duy%22%2C%22username%22%3A%22duyduy72%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1722909703&hash=4ecd883b5a2752068cc7425bb6f977596d83a02c631087f44f1dbc762ca5e74f
