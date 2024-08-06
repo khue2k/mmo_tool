@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1277826278%2C%22first_name%22%3A%22D%C6%B0%C6%A1ng%20Xu%C3%A2n%20Khu%C3%AA%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22DuongXuanKhue%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2787354923454322883&chat_type=sender&auth_date=1722934795&hash=603ca3bd49617a85dae6ee777942a532579826d779a83b444aef49721b1116ea
