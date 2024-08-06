@@ -1,8 +1,8 @@
 #!/bin/bash
 
-DIRECTORY="/home/ec2-user/timeFarm"
+DIRECTORY="/home/ec2-user/mmo/mmo_tool/timeFarm"
 FILE="time.js"
-OUTPUT_FILE="/home/ec2-user/timeFarm/nohup.out"
+OUTPUT_FILE="/home/ec2-user/mmo/mmo_tool/timeFarm/nohup.out"
 INPUT=$1
 
 if [ -d "$DIRECTORY" ]; then
