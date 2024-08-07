@@ -11,9 +11,8 @@ if [ -d "$DIRECTORY" ]; then
 
   # Kiểm tra xem file JavaScript có tồn tại không
   if [ -f "$FILE" ]; then
-   chmod 777 start.sh
-    chmod 777 INPUT
-    chmod 777 OUTPUT_FILE
+    chmod 777 start.sh
+    chmod 777 $OUTPUT_FILE
     # Chạy file JavaScript bằng Node.js với dữ liệu đầu vào từ biến INPUT, ghi output vào nohup.out
     echo "$INPUT" | nohup node "$FILE" > "$OUTPUT_FILE" 2>&1 &
     echo "Chạy file JavaScript trong nền, output được ghi vào $OUTPUT_FILE"
