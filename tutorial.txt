@@ -1,2 +1,2 @@
 Kiểm tra các file .js đang chạy trên nodeJs :  ps aux | grep node | grep '.js'
-Dừng file js đang chạy : kill -9 <id processing>
+Dừng file js đang chạy : kill -9 <id processing>  , ví dụ kill -9 123456
